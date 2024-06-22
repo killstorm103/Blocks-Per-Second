@@ -1,0 +1,7 @@
+name: BPS
+version: 1.0
+main: me.killstorm103.BPS.Main.BPS
+author: killstorm103
+description: Example Minecraft Server Plugin for getting the players BPS
+depend:
+- packetevents
